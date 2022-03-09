@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NightRider18133
 - 👀 I’m interested in fivem developement and script making
-- 🌱 I’m currently learning lua coding
+- 🌱 I’m currently learning lua coding and learning to make MLO's
 - 💞️ I’m looking to collaborate on custom scripts
 
 <!---
